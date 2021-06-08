@@ -13,6 +13,6 @@ git clone https://github.com/Danish-1122/anon-txt
 
 cd anon-txt
 
-python test.py
+python sms.py
 
 # Any missuse of the script author is not responsible 
