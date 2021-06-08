@@ -3,7 +3,7 @@
 
 # This is a free sms sender anonymously 
 
-# Installation just copy and paste the below commands in your termux 
+# Installation just copy and paste the below commands in your termux one by one  
 
 Install termux from playstore
 
