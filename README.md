@@ -9,6 +9,8 @@ Install termux from playstore
 
 pkg install python 
 
+pip install requests
+
 git clone https://github.com/Danish-1122/anon-txt
 
 cd anon-txt
